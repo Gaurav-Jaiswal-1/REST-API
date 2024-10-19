@@ -43,7 +43,7 @@ This repository contains the implementation of a **RESTful API** designed to pro
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/username/rest-api.git
+    https://github.com/Gaurav-Jaiswal-1/REST-API.git
     ```
 2. Install dependencies:
     ```bash
