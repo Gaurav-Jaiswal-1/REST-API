@@ -100,6 +100,5 @@ npm test
 - **Caching**: Adding caching mechanisms for optimized performance.
 - **Webhooks**: Enabling webhook support for real-time data updates.
 
-## Contributions
-Feel free to contribute to this project by opening issues or submitting pull requests. Any feedback or suggestions for improvement are highly appreciated.
+
 
